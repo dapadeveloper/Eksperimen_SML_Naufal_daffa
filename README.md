@@ -1,0 +1,2 @@
+# Eksperimen_SML_Naufal_daffa
+Submission Machine Learning dengan Automated Preprocessing
